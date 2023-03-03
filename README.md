@@ -1,2 +1,1 @@
-My first readme 
-Fun
+My first readme was fun
